@@ -1,0 +1,25 @@
+1.what is the significance of a system being operated from various locations?
+
+A.The significance of the many locations is
+  that you have a much more difficult interface co-ordination problem because you have geographically separate
+  activities that must work in synchronization and must trade information in real time during the mission.
+
+2.why is a PERT chart used? 
+
+A.PERT chart is a project management tool used to schedule, organize, and coordinate tasks within a project.
+  PERT stands for Program Evaluation Review Technique.It is useful to identify things that had to be done and to show 
+  their interrelationships and the activities they depended upon and those that depended on them.
+
+3.If a model for a system is developed  parallely, which of the following tasks can be accomplished ?
+ 1.determining when you are going to run out of memory capacity or CPU speed
+ 2.used as a guideline in changing the hardware configurations
+ 3.used for evaluating programming proposals
+ 4.none of the above
+ 
+A. 1,2,3
+
+4.
+
+5.Why does a project succeed or fail ? Is management problem the only reason ?
+A.Though there are serious management problems , by a problem being managerial we mean that it is th e 
+  responsibility of the manager to learn new techniques and take advantage of it to solve the technical problems.
