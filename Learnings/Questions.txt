@@ -19,7 +19,9 @@ A.PERT chart is a project management tool used to schedule, organize, and coordi
 A. 1,2,3
 
 4.What does " a real time operating system is independent of problem  modules" mean ?
-A.That meant that these modules could be extracted from the total system .Each named problem module could be worked on independently of other modules.It could be installed or extracted and then be reloaded in the system.
+A.That meant that these modules could be extracted from the total system .
+  Each named problem module could be worked on independently of other modules.It could be installed or extracted and then
+  be reloaded in the system.
 
 5.Why does a project succeed or fail ? Is management problem the only reason ?
 A.Though there are serious management problems , by a problem being managerial we mean that it is th e 
